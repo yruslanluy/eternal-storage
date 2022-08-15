@@ -1,4 +1,4 @@
-Made by [Crypto Chyvak](t.me/cryptochy)
+Made by [Crypto Chyvak](https://t.me/cryptochy)
 
 Этот контракт позволяет людям хранить текст размером до 31 байта (31 символьная строка из букв английского алфавита и цифр) данных в строковом формате вечно. Никто кроме вас не сможет изменить ваши данные
 
@@ -42,5 +42,5 @@ Made by [Crypto Chyvak](t.me/cryptochy)
 
 
 EternalStorage. Open MIT license
-By [cryptochy](t.me/cryptochy). 2022
+By [cryptochy](https://t.me/cryptochy). 2022
  
