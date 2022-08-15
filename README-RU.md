@@ -4,7 +4,7 @@ Made by [Crypto Chyvak](https://t.me/cryptochy)
 
 **Внимание! Все данные в блокчейне публичны, не храните приватную информацию**
 
-Этот контракт доступен публично в сети BSC: 
+Этот контракт доступен публично в сети BSC: https://bscscan.com/address/0xfb2a35c00e7bfbb46ccedfc2c5c03164717cafc1#writeContract
 
 ## Функции
 
