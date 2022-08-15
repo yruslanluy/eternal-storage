@@ -1,4 +1,4 @@
-Made by [Crypto Chyvak](t.me/cryptochy)
+Made by [Crypto Chyvak](https://t.me/cryptochy)
 
 This contract allows users to store up to 31 bytes (31 length string, only English and numbers) of data in string format forever. No one except you can change your storage data
 
@@ -42,5 +42,5 @@ To delete your data select "rewrite" function, in field "rewrite" enter any amou
 
 
 EternalStorage. Open MIT license
-By [cryptochy](t.me/cryptochy). 2022
+By [cryptochy](https://t.me/cryptochy). 2022
  
