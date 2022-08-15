@@ -4,7 +4,7 @@ This contract allows users to store up to 31 bytes (31 length string, only Engli
 
 **Warning! All data in blockchain is public, don't store private information**
 
-This contract is public available on BSC network: 
+This contract is public available on BSC network: https://bscscan.com/address/0xfb2a35c00e7bfbb46ccedfc2c5c03164717cafc1#writeContract
 
 ## Functions
 
